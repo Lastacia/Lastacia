@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Datacom Risk Assessment </b>
- 
-- <b>GRC Masterclass Lab </b>
+
+ - [GRC Masterclass Lab](https://github.com/Lastacia/Risk-assessment-Lab.git)
 
   <h2>Certifications</h2>
   
