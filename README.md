@@ -4,7 +4,8 @@
 
 - <b>Datacom Risk Assessment </b>
  
-- <b>GRC Masterclass Lab</b>
+- <b>GRC Masterclass Lab </b>
+SIMPLY CYBER GRC ANALYST WORKBOOK.xlsx
 
   <h2>Certifications</h2>
   
