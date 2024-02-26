@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Datacom Risk Assessment </b>
+- <b> Vulnerability Lab </b>
 
  - [GRC Masterclass Lab](https://github.com/Lastacia/Risk-assessment-Lab.git)
 
