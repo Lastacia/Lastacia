@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Vulnerability Lab </b>
+- <b> [Vulnerability Lab](https://github.com/Lastacia/Vulnerability-Lab/blob/main/README.md)</b>
 
  - [GRC Masterclass Lab](https://github.com/Lastacia/Risk-assessment-Lab.git)
 
