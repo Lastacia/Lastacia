@@ -1,29 +1,21 @@
 <h1>Hi, I'm Lastacia! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> Introduction </h2>
+I am a recent graduate with an interest in implementing security measures and policies to reduce risk.
 
-- <b> [Vulnerability Lab](https://github.com/Lastacia/Vulnerability-Lab/blob/main)</b>
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
- - [GRC Masterclass Lab](https://github.com/Lastacia/Risk-assessment-Lab.git)
+- [Vulnerability Lab](https://github.com/Lastacia/Vulnerability-Lab/blob/main)
 
-  <h2>Certifications</h2>
-  
+ - [GRC Masterclass Lab](https://github.com/Lastacia/Risk-assessment-Lab.git)  
 
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: 
+<a href="https://linkedin.com/in/lastaciamyersb3"><img align="left" alt="lastaciamyers| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
+ 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
